@@ -10,4 +10,6 @@
 
 ###  📫 How to reach me: 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raja-mishra1&show_icons=true)
+
 

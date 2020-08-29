@@ -11,14 +11,14 @@
 ###  📫 How to reach me: 
 
 <br><br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Raja-mishra1&show_icons=true&theme=radical)
+![Raja Mishra's github stats](https://github-readme-stats.vercel.app/api?username=Raja-mishra1&show_icons=true&theme=radical)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-mishra1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px"] src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 

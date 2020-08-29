@@ -14,7 +14,7 @@ Python , Django , C++ , Flask , HTML , CSS , JS , Machine Learning , Deep Learni
 
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raja-mishra1&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raja-mishra1&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-mishra1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Raja-mishra1)  

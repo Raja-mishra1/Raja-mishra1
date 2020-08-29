@@ -48,10 +48,7 @@
 [twitter]: https://twitter.com/Raja__mishra
 [instagram]: https://www.instagram.com/__rajamishra__/
 [linkedin]: https://www.linkedin.com/in/rajamishraa/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]:
-[reactplaylist]: 
+ 
 
 
 

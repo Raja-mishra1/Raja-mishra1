@@ -1,7 +1,7 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 Raj here , a Python developer and Data Scientist from Mumbai.
 
-
+<br><br>
 ##  🔭 I’m currently working in Python,Django, Flask, Machine Learning, Deep Learning
 
 ##  🌱 I’m currently learning Machine Learning, Deep Learning, React Js,

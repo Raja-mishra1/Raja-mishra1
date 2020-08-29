@@ -1,7 +1,4 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  Raja Mishra here
-<br>
-# About:
-<br>
 Started coding in 8th standard and was amazed by how we can do such great stuff with few lines of code.
  
 ## Skills:

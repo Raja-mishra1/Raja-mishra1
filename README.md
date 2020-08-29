@@ -8,7 +8,14 @@
 
 ###  💬 Ask me about 
 
-###  📫 How to reach me: 
+<br><br>
+### Connect with me:
+
+[<img align="left" alt="Raja-mishra1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Raja-mishra1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Raja-mishra1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 <br><br>
 ![Raja Mishra's github stats](https://github-readme-stats.vercel.app/api?username=Raja-mishra1&show_icons=true&theme=radical)
@@ -44,6 +51,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
+
+[twitter]: https://twitter.com/Raja__mishra
+[instagram]: https://www.instagram.com/__rajamishra__/
+[linkedin]: https://www.linkedin.com/in/rajamishraa/
+
 
 
 

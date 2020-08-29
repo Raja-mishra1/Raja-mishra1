@@ -9,11 +9,6 @@ Raj here , a Python developer and Data Scientist from Mumbai.
 ##  💬 Ask me about Python, Django, Machine Learning, Deep Learning 
 
 <br><br>
-### Connect with me:
-
-[<img align="left" alt="Raja-mishra1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Raja__mishra]
-[<img align="left" alt="Raja-mishra1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.instagram.com/__rajamishra__/]
-[<img align="left" alt="Raja-mishra1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.linkedin.com/in/rajamishraa/]
 
 <br />
 
@@ -22,17 +17,7 @@ Raj here , a Python developer and Data Scientist from Mumbai.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-mishra1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
 
-
-<br>
-<br>
-[twitter]: https://twitter.com/Raja__mishra
-[instagram]: https://www.instagram.com/__rajamishra__/
-[linkedin]: https://www.linkedin.com/in/rajamishraa/
- 
 
 
 

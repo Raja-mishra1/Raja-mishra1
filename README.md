@@ -1,12 +1,13 @@
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Raj here , a Python developer and Data Scientist from Mumbai.
 
 
 
-###  🔭 I’m currently working in Python , Django , Flask , Machine Learning , Deep Learning
+##  🔭 I’m currently working in Python , Django , Flask , Machine Learning , Deep Learning
 
-###  🌱 I’m currently learning Machine Learning , Deep Learning , React Js,
+##  🌱 I’m currently learning Machine Learning , Deep Learning , React Js,
 
-###  💬 Ask me about Python , Django , Machine Learning , Deep Learning 
+##  💬 Ask me about Python , Django , Machine Learning , Deep Learning 
 
 <br><br>
 ### Connect with me:

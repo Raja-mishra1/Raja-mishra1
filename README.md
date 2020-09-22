@@ -3,7 +3,7 @@ Started coding in 8th standard and was amazed by how we can do such great stuff 
 <br>
 ### - 🔭 I’m currently working on Python , Django , Flask , Machine Learning , Deep Learning. 
 ### - 🌱 I’m currently learning Deep Learning , DevOps  
-### - 💬 Ask me about Python , Machine Learning , Deep Learning 
+### - 💬 Ask me about Python , Django , Machine Learning , Deep Learning 
 <br><br>
 ## Skills:
 Python , Django , C++ , Flask , HTML , CSS , JS , Machine Learning , Deep Learning , SQL , MongoDB , AWS , GCP

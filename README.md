@@ -1,8 +1,8 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  Raja Mishra here
 Started coding in 8th standard and was amazed by how we can do such great stuff with few lines of code.
 <br>
-### - 🔭 I’m currently working in Python , Django , Flask , Machine Learning , Deep Learning. 
-### - 🌱 I’m currently learning Deep Learning , DevOps  
+### - 🔭 I’m currently working in Python , Django , Flask , Machine Learning , Deep Learning , Javascript. 
+### - 🌱 I’m currently learning Deep Learning , DevOps , React
 ### - 💬 Ask me about Python , Django , Machine Learning , Deep Learning 
 <br><br>
 ## Skills:

@@ -6,7 +6,7 @@ Started coding in 8th standard and was amazed by how we can do such great stuff 
 ### - 💬 Ask me about Python , Django , Machine Learning , Deep Learning 
 <br><br>
 ## Skills:
-Python , Django , C++ , Flask , HTML , CSS , JS , Machine Learning , Deep Learning , SQL , MongoDB , AWS , GCP
+Python , Django , Flask , HTML , CSS , JS , Machine Learning , Deep Learning , SQL , MongoDB , AWS , GCP
 
 <br><br>
 ## Connect here:

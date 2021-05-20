@@ -7,6 +7,9 @@ Started coding in 8th standard and was amazed by how we can do such great stuff 
 <br><br>
 ## Skills:
 Python , Django , Flask , HTML , CSS , JS , Machine Learning , Deep Learning , SQL , MongoDB , AWS , GCP
+<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raja-mishra1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br><br>
 ## Connect here:

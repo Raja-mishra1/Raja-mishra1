@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raja Mishra</h1>
 <h3 align="center">Software Engineer at Highlevel </h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=raja-mishra1&label=Profile%20views&color=0e75b6&style=flat" alt="raja-mishra1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raja-mishra1" alt="raja-mishra1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@raja__mishra" target="blank"><img src="https://img.shields.io/twitter/follow/@raja__mishra?logo=twitter&style=for-the-badge" alt="@raja__mishra" /></a> </p>
-
-- 🔭 I’m currently working with **Python , Django , Flask , Machine Learning , Deep Learning , Javascript.**
+- 🔭 I’m currently working with **TypeScript , NestJs , Javascript,  Python  , Flask , Machine Learning , Deep Learning , Javascript.**
 
 - 🌱 I’m currently learning **Golang, HLD, Airflow**
 
